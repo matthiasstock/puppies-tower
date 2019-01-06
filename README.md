@@ -44,6 +44,10 @@ The chipboard's surface curls (maybe too much primer) were cut and glued again l
 
 Almost every powerbank seems to not switch on again after sleep mode. The reboot also leads to a short but annoying flashing of the internal LED. Therefore, the powerbank is left outside the box on the roof, so it can be easily plugged out. It has also been replaced by a device that has a power switch.
 
+**Red button** starts/stops the alarm with 4 red LEDs in the look-out (changed functionality for children's wish, consider using a switch instead)  
+**White button** activates light under the yellow cup  
+**Key switch** unlocks the red button
+
 ![electronical part in the head of the look-out][chrono7]
 
 ### Finished Tower
